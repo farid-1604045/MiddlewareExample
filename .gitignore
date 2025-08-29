@@ -1,17 +1,31 @@
 ## Build Folders
 bin/
 obj/
-
+Debug/
+Release/
 ## Visual Studio files
+.vs/
 *.user
 *.suo
+*.vcxproj.user
 *.vscode/
 
 ## Logs
 *.log
+
+## NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+
+## Temporary files
+*.tmp
+*.cache
 
 ## Others
 *.vspscc
 *.vssscc
 *.dbmdl
 TestResults/
+_ReSharper*/
+*.DotSettings.user
