@@ -1,0 +1,17 @@
+## Build Folders
+bin/
+obj/
+
+## Visual Studio files
+*.user
+*.suo
+*.vscode/
+
+## Logs
+*.log
+
+## Others
+*.vspscc
+*.vssscc
+*.dbmdl
+TestResults/
